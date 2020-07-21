@@ -105,7 +105,6 @@ require('../../../webapp/src/js/services/languages');
 require('../../../webapp/src/js/services/lineage-model-generator');
 require('../../../webapp/src/js/services/location');
 require('../../../webapp/src/js/services/modal');
-require('../../../webapp/src/js/services/privacy-policies');
 require('../../../webapp/src/js/services/resource-icons');
 require('../../../webapp/src/js/services/search');
 require('../../../webapp/src/js/services/select2-search');
